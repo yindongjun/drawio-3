@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T12:27:56.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="8IukpsY0Gcyy_Vd79ZtA" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T12:29:14.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="3iJdEj22ebDQ3Jmzb0Bh" version="13.2.6" type="github">
   <diagram id="X1FIcf9KFkCWj5uIklxK" name="Page-1">
     <mxGraphModel dx="1186" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="pddV19EqHDgrhG9oEsq_-21" value="写db,发消息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pddV19EqHDgrhG9oEsq_-22" value="消费消息,更新任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="pddV19EqHDgrhG9oEsq_-22" value="消费消息,(物料拆分,异步下载),更新任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
