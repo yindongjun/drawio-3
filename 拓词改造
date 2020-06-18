@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T09:27:22.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" version="13.2.6" etag="T2YiB1bCCpWoNHl_NEcE" type="github"><diagram id="9CQVMkKsbtRLnIlwGGjO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-18T09:39:53.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="693kPKM_D7DbHD5RqUa4" version="13.2.6" type="github">
+  <diagram id="9CQVMkKsbtRLnIlwGGjO" name="Page-1">
+    <mxGraphModel dx="1186" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" id="0jSRf5jngbumUOeIrQmU-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+            <mxGeometry x="420" y="160" width="276" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0jSRf5jngbumUOeIrQmU-1" value="搜索推广Web平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jSRf5jngbumUOeIrQmU-2" value="&lt;div&gt;推广管家&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jSRf5jngbumUOeIrQmU-9" value="api服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="220" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jSRf5jngbumUOeIrQmU-14" value="数据适配" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
