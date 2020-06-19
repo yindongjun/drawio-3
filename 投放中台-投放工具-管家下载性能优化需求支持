@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T12:34:32.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="aZE6yN71eD5bSJQGCxDr" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T12:50:48.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="bH6-N1q5x058rdet6rlL" version="13.2.6" type="github">
   <diagram id="X1FIcf9KFkCWj5uIklxK" name="Page-1">
     <mxGraphModel dx="1186" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pddV19EqHDgrhG9oEsq_-20" value="查询结果" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="90" height="60" as="geometry" />
+          <mxGeometry x="260" y="540" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-19" value="提交请求" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="90" height="60" as="geometry" />
+          <mxGeometry x="130" y="540" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pddV19EqHDgrhG9oEsq_-1" target="pddV19EqHDgrhG9oEsq_-4">
           <mxGeometry relative="1" as="geometry" />
@@ -18,6 +18,11 @@
             <Array as="points">
               <mxPoint x="630" y="104" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pddV19EqHDgrhG9oEsq_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pddV19EqHDgrhG9oEsq_-1" target="pddV19EqHDgrhG9oEsq_-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-1" value="消费者/处理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -33,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-2" value="apollo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pddV19EqHDgrhG9oEsq_-3" target="pddV19EqHDgrhG9oEsq_-2">
           <mxGeometry relative="1" as="geometry" />
@@ -42,22 +47,36 @@
           <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-4" value="db" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="100" height="100" as="geometry" />
+          <mxGeometry x="470" y="500" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pddV19EqHDgrhG9oEsq_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pddV19EqHDgrhG9oEsq_-5" target="pddV19EqHDgrhG9oEsq_-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pddV19EqHDgrhG9oEsq_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pddV19EqHDgrhG9oEsq_-5" target="pddV19EqHDgrhG9oEsq_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-5" value="kafka" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-21" value="写db,发消息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="380" width="90" height="60" as="geometry" />
+          <mxGeometry x="360" y="585" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-22" value="消费消息,(物料拆分,异步下载),更新任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="90" height="60" as="geometry" />
+          <mxGeometry x="710" y="220" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pddV19EqHDgrhG9oEsq_-25" value="领域服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pddV19EqHDgrhG9oEsq_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pddV19EqHDgrhG9oEsq_-28" target="pddV19EqHDgrhG9oEsq_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pddV19EqHDgrhG9oEsq_-28" value="blocking queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pddV19EqHDgrhG9oEsq_-34" value="写线程向队列写分片数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pddV19EqHDgrhG9oEsq_-35" value="读线程读队列数据,写文件上传dfs,返回信息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
