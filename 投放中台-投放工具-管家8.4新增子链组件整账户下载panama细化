@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T03:58:52.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="htqHXL2egJVaEEESsbgY" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T05:00:06.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="pDnKG0vLGudvIwgF2ne6" version="13.4.1" type="github">
   <diagram id="X1FIcf9KFkCWj5uIklxK" name="Page-1">
     <mxGraphModel dx="1186" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-10" value="&lt;span&gt;ThreadPoolTaskMgrImpl&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1.&amp;nbsp;DownloadAccountDirector中得到相应的整账户下载的线程池管理器&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="585" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="DqkXMHBb_uSpj3oadZ4x-11" value="&lt;span&gt;ThreadPoolTaskExecutor&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolTaskMgrImpl中得到相应的线程池处理器对相应的任务DownloadAccountRunner进行护理&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-11" value="&lt;span&gt;ThreadPoolTaskExecutor&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolTaskMgrImpl中得到相应的线程池处理器对相应的任务DownloadAccountRunner&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="400" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
