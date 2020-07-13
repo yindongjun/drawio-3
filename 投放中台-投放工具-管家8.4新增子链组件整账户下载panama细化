@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T05:23:58.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="IfgtCmdnjxorFhN5G3hp" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T07:03:52.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="si3iGXgXq9lgvzePh0mW" version="13.4.1" type="github">
   <diagram id="X1FIcf9KFkCWj5uIklxK" name="Page-1">
     <mxGraphModel dx="1186" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,14 +46,14 @@
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-11" target="DqkXMHBb_uSpj3oadZ4x-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DqkXMHBb_uSpj3oadZ4x-11" value="&lt;span&gt;ThreadPoolTaskExecutor&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolTaskMgrImpl中得到相应的线程池处理器对相应的任务DownloadAccountRunner进行处理&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-11" value="&lt;span&gt;ThreadPoolTaskExecutor&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolTaskMgrImpl中得到相应的线程池处理器ThreadPoolTaskExecutor&lt;br&gt;对相应的任务DownloadAccountRunner进行处理&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="620" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-14" target="DqkXMHBb_uSpj3oadZ4x-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-14" value="&lt;span&gt;ThreadPoolRunner&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolTaskExecutor中得到相应的ThreadPoolRunner执行DownloadTaskMgr的download方法下载&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="180" height="130" as="geometry" />
+          <mxGeometry x="700" y="620" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-2" value="&lt;span&gt;KafkaMessageProcessor&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1.根据kafkaConsumerConfig初始化consumerConnector&lt;br&gt;2.构造KafkaMessageProcessor&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="130" width="180" height="100" as="geometry" />
@@ -71,8 +71,57 @@
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d2FDacNNNbc5C7QCBaxL-5" target="d2FDacNNNbc5C7QCBaxL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DqkXMHBb_uSpj3oadZ4x-19" value="&lt;span&gt;ThreadPoolRunner&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolTaskExecutor中得到相应的ThreadPoolRunner执行DownloadTaskMgr的download方法下载&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="180" height="130" as="geometry" />
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-19" target="DqkXMHBb_uSpj3oadZ4x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-19" value="&lt;span&gt;DownloadTaskMgrImpl&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. ThreadPoolRunner中的run方法调用执行DownloadTaskMgr的download方法下载&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="620" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-21" target="DqkXMHBb_uSpj3oadZ4x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-21" value="&lt;span&gt;DownloadTaskSubmitter&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. 根据downloadType组装各个物料的下载任务并调用整账户下载线程池AccountDownloadExecutor进行下载&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="455" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-23" target="DqkXMHBb_uSpj3oadZ4x-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="180" />
+              <mxPoint x="1000" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-23" value="AccountDownloadExecutor&lt;span&gt;&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. 整账户下载线程池对各种物料进行下载&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="280" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-25" target="DqkXMHBb_uSpj3oadZ4x-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DqkXMHBb_uSpj3oadZ4x-25" target="DqkXMHBb_uSpj3oadZ4x-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="85" />
+              <mxPoint x="750" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-25" value="&lt;span&gt;DownloadSubchainMgrImpl&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1. 对子链进行下载的任务&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="20" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-27" value="&lt;span&gt;对此次downloadType对应的任务执行,此次对子链组件的downlaodType进行定义,并实现任务具体代码&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-28" value="&lt;span&gt;apollo&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-30" value="&lt;span&gt;依赖cupid调用物料服务&lt;br&gt;查询相应物料,&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-31" value="db" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-35" value="&lt;span&gt;将查询到的物料写入文件,并放在dfs,对UnifyTask的下载url字段的和状态字段进行更新&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="190" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
