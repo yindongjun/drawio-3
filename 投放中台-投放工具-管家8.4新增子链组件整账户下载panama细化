@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T07:03:52.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="si3iGXgXq9lgvzePh0mW" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T07:29:55.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="o7qDTfAyFWfllgeBtvCD" version="13.4.1" type="github">
   <diagram id="X1FIcf9KFkCWj5uIklxK" name="Page-1">
     <mxGraphModel dx="1186" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="530" y="10" width="600" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="600" width="1120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="330" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="d2FDacNNNbc5C7QCBaxL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DqkXMHBb_uSpj3oadZ4x-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="210" as="targetPoint" />
@@ -122,6 +131,15 @@
         </mxCell>
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-35" value="&lt;span&gt;将查询到的物料写入文件,并放在dfs,对UnifyTask的下载url字段的和状态字段进行更新&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-39" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;消费kafka消息,根据topic解析消息并处理&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-41" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;根据操作不同使用上载和下载的线程池,并分别执行这几种类型的任务&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="760" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-44" value="&lt;span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;根据下载物料类型分派不同的下载任务,交给整账户下载线程池执行&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
