@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T03:36:45.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="4UJmE0YDGRn2y25QBXFv" version="13.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T03:40:27.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="G_oDR4mwas6Y_JRiD874" version="13.4.1" type="github">
   <diagram id="X1FIcf9KFkCWj5uIklxK" name="Page-1">
     <mxGraphModel dx="1186" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="DqkXMHBb_uSpj3oadZ4x-3" value="&lt;span&gt;RawMessageHandler&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1.注入RawMessageHandler,构造KafkaMessageProcessor&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="390" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DqkXMHBb_uSpj3oadZ4x-8" value="&lt;span&gt;DownloadAccountDirector&lt;br&gt;&lt;br&gt;(&lt;/span&gt;1.根据RawMessage中的taskType得到对应的BaseDirector的实现类DownloadAccountDirector&lt;span&gt;&lt;br&gt;)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="585" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
