@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:47:27.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="04BcDZu-Nw94veqDn1yH" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T06:50:57.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Bz_DsPDLYQn_syZdwEv9" version="13.7.5" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
     <mxGraphModel dx="2595" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -185,6 +185,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376" y="1465" as="sourcePoint" />
+            <mxPoint x="391" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221" y="1465" />
+              <mxPoint x="221" y="480" />
+              <mxPoint x="391" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-19" value="增量任务提交中" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="1440" width="110" height="50" as="geometry" />
         </mxCell>
@@ -223,6 +234,16 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-26" target="pfTwy-6_xwasAA1-WFlj-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-26" target="xRANGXOFlQ8uoqTKwq2T-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1965" />
+              <mxPoint x="120" y="460" />
+              <mxPoint x="350" y="460" />
+              <mxPoint x="350" y="445" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-26" value="增量同步成功" style="html=1;" vertex="1" parent="1">
@@ -315,6 +336,12 @@
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-74" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-76" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1940" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-78" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1440" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
