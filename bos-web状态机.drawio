@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:59:46.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="oPRnXv0jsQR9XXYcffI4" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:16:30.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_HD5hpbDAuFShegxgMHo" version="13.7.5" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
-    <mxGraphModel dx="2595" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-11" value="创建失败" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="820" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xRANGXOFlQ8uoqTKwq2T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="xRANGXOFlQ8uoqTKwq2T-20" edge="1">
+        <mxCell id="xRANGXOFlQ8uoqTKwq2T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="xRANGXOFlQ8uoqTKwq2T-20" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-45" value="检查全量dump文件失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xRANGXOFlQ8uoqTKwq2T-22">
@@ -64,7 +64,7 @@
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="xRANGXOFlQ8uoqTKwq2T-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="pfTwy-6_xwasAA1-WFlj-30">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="pfTwy-6_xwasAA1-WFlj-30" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-43" value="备份offset(实时)失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-31">
@@ -88,18 +88,18 @@
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-20" value="全量同步失败" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="420" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xRANGXOFlQ8uoqTKwq2T-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-23" target="xRANGXOFlQ8uoqTKwq2T-25" edge="1">
+        <mxCell id="xRANGXOFlQ8uoqTKwq2T-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-23" target="xRANGXOFlQ8uoqTKwq2T-25" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-47" value="全量索引完之后,加载前出异常(如solr的livenodes获取不到)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xRANGXOFlQ8uoqTKwq2T-26">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-47" value="全量索引完之后,加载索引前出异常(如solr的livenodes获取不到)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xRANGXOFlQ8uoqTKwq2T-26">
           <mxGeometry x="-0.0328" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xRANGXOFlQ8uoqTKwq2T-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-23" target="xRANGXOFlQ8uoqTKwq2T-27" edge="1">
+        <mxCell id="xRANGXOFlQ8uoqTKwq2T-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-23" target="xRANGXOFlQ8uoqTKwq2T-27" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-48" value="向bos-solr发送load请求,solr开始load" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xRANGXOFlQ8uoqTKwq2T-28">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-48" value="向bos-solr发送load请求,solr开始load索引" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xRANGXOFlQ8uoqTKwq2T-28">
           <mxGeometry x="-0.1" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -119,15 +119,15 @@
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-25" value="全量同步失败" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="660" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-27" target="pfTwy-6_xwasAA1-WFlj-1">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-27" target="pfTwy-6_xwasAA1-WFlj-1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-49" value="solr在load完成之后,索引校验失败(如果有校验)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-2">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-49" value="solr在load索引完成之后,索引校验失败(如果有校验)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-2">
           <mxGeometry x="-0.003" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-27" target="pfTwy-6_xwasAA1-WFlj-3">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-27" target="pfTwy-6_xwasAA1-WFlj-3" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-50" value="solr在load完成之后,创建新的collection成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-4">
@@ -186,7 +186,7 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="680" y="1315" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-19" target="pfTwy-6_xwasAA1-WFlj-22">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-19" target="pfTwy-6_xwasAA1-WFlj-22" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-52" value="增量提交成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-23">
@@ -194,7 +194,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-19" target="pfTwy-6_xwasAA1-WFlj-24">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-19" target="pfTwy-6_xwasAA1-WFlj-24" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-51" value="增量提交失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-25">
@@ -222,7 +222,7 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-22" target="pfTwy-6_xwasAA1-WFlj-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-22" target="pfTwy-6_xwasAA1-WFlj-28">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-22" target="pfTwy-6_xwasAA1-WFlj-28" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-53" value="offset无法追上或追上之后收尾工作发生异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-29">
@@ -266,7 +266,7 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-26" value="增量同步成功" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="1940" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-28" target="pfTwy-6_xwasAA1-WFlj-19">
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-28" target="pfTwy-6_xwasAA1-WFlj-19" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="875" y="1550" />
