@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T03:46:07.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Ioktz5C216ydCDbtXODd" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T03:49:29.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Oawb-7CCAJ1vwLuzpOn7" version="13.7.5" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -40,6 +40,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="xRANGXOFlQ8uoqTKwq2T-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xRANGXOFlQ8uoqTKwq2T-18" target="pfTwy-6_xwasAA1-WFlj-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-18" value="全量任务启动" style="html=1;" parent="1" vertex="1">
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-28" value="增量同步失败" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-30" value="备份offset失败" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
