@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:47:16.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PoOnvUmHq_w6VMsvexlI" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T06:47:27.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="04BcDZu-Nw94veqDn1yH" version="13.7.5" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
     <mxGraphModel dx="2595" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -289,8 +289,8 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-54" value="offset追上,收尾工作顺利进行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="1820" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-55" value="在增量同步成功之后,&lt;font color=&quot;#ff0000&quot;&gt;用户点击暂停&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1950" width="200" height="20" as="geometry" />
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-55" value="在增量同步成功之后,&lt;font color=&quot;#ff0000&quot;&gt;用户点击暂停增量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1950" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-56" value="该应用建立索引阶段成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="2040" width="150" height="20" as="geometry" />
