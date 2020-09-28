@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:17:00.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="8Gf0SmKURej5gEj8yebw" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T06:29:01.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2XQyzANQRNS8wGjTI0U-" version="13.7.5" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
     <mxGraphModel dx="2595" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -180,11 +180,34 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-26" value="增量同步成功" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="1940" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-28" target="pfTwy-6_xwasAA1-WFlj-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="875" y="1550" />
+              <mxPoint x="469" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-60" value="用户点击启动增量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pfTwy-6_xwasAA1-WFlj-59">
+          <mxGeometry x="0.0083" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-28" value="增量同步失败" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1700" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-30" value="备份offset失败" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pfTwy-6_xwasAA1-WFlj-32" target="pfTwy-6_xwasAA1-WFlj-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="875" y="1810" />
+              <mxPoint x="510" y="1810" />
+              <mxPoint x="510" y="1560" />
+              <mxPoint x="458" y="1560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-32" value="增量同步暂停" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1940" width="110" height="50" as="geometry" />
@@ -198,8 +221,8 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-40" value="配置schema信息,全量信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-80" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-41" value="上传solr配置文件,创建collection失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="10" width="210" height="20" as="geometry" />
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-41" value="用户点击激活,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;执行操作:上传solr配置文件,创建collection失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="5" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-42" value="上传solr配置文件或者创建collection成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="90" width="230" height="20" as="geometry" />
@@ -215,6 +238,9 @@
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-56" value="该应用建立索引阶段成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="2040" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-62" value="用户点击启动增量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1810" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
