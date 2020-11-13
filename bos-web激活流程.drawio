@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T05:22:53.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="SHqa9KA9ajvrW2niHLkN" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T05:23:59.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UEfz553AtfKr_XmXxQoG" version="13.7.5" type="github">
   <diagram id="XZglGh6_TYmaEjN56eIl" name="Page-1">
     <mxGraphModel dx="1426" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,8 +63,16 @@
         <mxCell id="_l-4MiFybuPaPkEot7f6-5" value="节点监听reload是否完成:&lt;br&gt;1.reload完成则创建collecttion&lt;br&gt;2.(全量校验)&lt;br&gt;3.若有增量则提交增量,否则进行全量收尾工作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="800" width="300" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_l-4MiFybuPaPkEot7f6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_l-4MiFybuPaPkEot7f6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-7" value="增量任务:&lt;br&gt;1.提交增量任务&lt;br&gt;2.check 是否追上,追上则索引成功进行收尾,否则失败" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="940" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-4MiFybuPaPkEot7f6-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
