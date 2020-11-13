@@ -1,25 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T05:18:49.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="5Rjbq3Uzx89q1s920v_k" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T05:21:18.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="iPfQIk2iA2GU6y556OkH" version="13.7.5" type="github">
   <diagram id="XZglGh6_TYmaEjN56eIl" name="Page-1">
     <mxGraphModel dx="1426" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mbDF_WF1eduGSsgmdLx6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mbDF_WF1eduGSsgmdLx6-1" target="mbDF_WF1eduGSsgmdLx6-8" edge="1">
+        <mxCell id="mbDF_WF1eduGSsgmdLx6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mbDF_WF1eduGSsgmdLx6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="110" />
-              <mxPoint x="380" y="110" />
+              <mxPoint x="460" y="110" />
+              <mxPoint x="460" y="110" />
             </Array>
+            <mxPoint x="460" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mbDF_WF1eduGSsgmdLx6-8" target="mbDF_WF1eduGSsgmdLx6-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-8" value="1.生成schema文件&lt;br&gt;2.上传配置文件到solr并创建collection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="130" width="450" height="60" as="geometry" />
+          <mxGeometry x="240" y="130" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mbDF_WF1eduGSsgmdLx6-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -30,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-13" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="335" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="425" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-16" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="260" width="30" height="20" as="geometry" />
@@ -39,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-18" value="1.清理遗留节点信息&lt;br&gt;2.备份offset&lt;br&gt;3.备份indexversion" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="315" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="380" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="350" width="30" height="20" as="geometry" />
@@ -48,22 +49,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-25" value="起全量线程:&lt;br&gt;1.check全量文件生成&lt;br&gt;2.下载解析jar包,上传全量所需配置文件&lt;br&gt;3.提交全量任务" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="315" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="520" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_l-4MiFybuPaPkEot7f6-1" target="_l-4MiFybuPaPkEot7f6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-1" value="全量mr任务完成:&lt;br&gt;1.创建临时collecttion&lt;br&gt;2.监听reload的zk节点&lt;br&gt;3.发起reload" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="660" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_l-4MiFybuPaPkEot7f6-5" target="_l-4MiFybuPaPkEot7f6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-5" value="节点监听reload是否完成:&lt;br&gt;1.reload完成则创建collecttion&lt;br&gt;2.(全量校验)&lt;br&gt;3.若有增量则提交增量,否则进行全量收尾工作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="800" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-7" value="增量任务:&lt;br&gt;1.提交增量任务&lt;br&gt;2.check 是否追上,追上则索引成功进行收尾,否则失败" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="940" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
