@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T05:23:59.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UEfz553AtfKr_XmXxQoG" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T05:33:31.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WcYXzh2er7emD24jRlpI" version="13.7.5" type="github">
   <diagram id="XZglGh6_TYmaEjN56eIl" name="Page-1">
     <mxGraphModel dx="1426" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="mbDF_WF1eduGSsgmdLx6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mbDF_WF1eduGSsgmdLx6-18" target="mbDF_WF1eduGSsgmdLx6-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mbDF_WF1eduGSsgmdLx6-18" value="1.清理遗留节点信息&lt;br&gt;2.备份offset&lt;br&gt;3.备份indexversion" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mbDF_WF1eduGSsgmdLx6-18" value="1.清理遗留节点信息&lt;br&gt;2.备份offset&lt;br&gt;3.备份indexversion&lt;br&gt;4.起全量线程" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="315" y="380" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbDF_WF1eduGSsgmdLx6-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -48,7 +48,7 @@
         <mxCell id="_l-4MiFybuPaPkEot7f6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mbDF_WF1eduGSsgmdLx6-25" target="_l-4MiFybuPaPkEot7f6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mbDF_WF1eduGSsgmdLx6-25" value="起全量线程:&lt;br&gt;1.check全量文件生成&lt;br&gt;2.下载解析jar包,上传全量所需配置文件&lt;br&gt;3.提交全量任务" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mbDF_WF1eduGSsgmdLx6-25" value="全量线程:&lt;br&gt;1.check全量文件生成&lt;br&gt;2.下载解析jar包,上传全量所需配置文件&lt;br&gt;3.提交全量任务" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="315" y="520" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_l-4MiFybuPaPkEot7f6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_l-4MiFybuPaPkEot7f6-1" target="_l-4MiFybuPaPkEot7f6-5">
