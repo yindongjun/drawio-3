@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T13:58:19.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6NXB6UhIsxsfrkhYcNqe" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T13:59:22.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6SmomYKW2dFkeM1CxS28" version="13.9.7" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
-    <mxGraphModel dx="3919" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="4169" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,8 +352,8 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-78" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="4080" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pfTwy-6_xwasAA1-WFlj-80" value="&lt;font color=&quot;#ff0000&quot;&gt;E_collection_metadata_recreate&lt;br&gt;&lt;/font&gt;执行操作:上传solr配置文件,创建collection失败&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="785.5" y="690" width="260" height="30" as="geometry" />
+        <mxCell id="pfTwy-6_xwasAA1-WFlj-80" value="&lt;font color=&quot;#ff0000&quot;&gt;E_&lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;recreate&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;collection_metadata&lt;br&gt;&lt;/font&gt;执行操作:上传solr配置文件,创建collection失败&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="785.5" y="680" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ouW_fzpy-MnYri31NkzG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ouW_fzpy-MnYri31NkzG-1" target="ouW_fzpy-MnYri31NkzG-8">
           <mxGeometry relative="1" as="geometry">
@@ -498,8 +498,8 @@
         <mxCell id="ouW_fzpy-MnYri31NkzG-57" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="890" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ouW_fzpy-MnYri31NkzG-59" value="&lt;font color=&quot;#ff0000&quot;&gt;E_dts_finished&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="403" width="90" height="20" as="geometry" />
+        <mxCell id="ouW_fzpy-MnYri31NkzG-59" value="&lt;font color=&quot;#ff0000&quot;&gt;E_finish_dts&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="403" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ouW_fzpy-MnYri31NkzG-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouW_fzpy-MnYri31NkzG-63" target="ouW_fzpy-MnYri31NkzG-69">
           <mxGeometry relative="1" as="geometry" />
