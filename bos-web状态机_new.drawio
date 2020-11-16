@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T12:30:34.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2dJFVtvlD6SxLH1B63Mi" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T12:37:29.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gc8g25ObY0k4__Dd3ELp" version="13.9.7" type="github">
   <diagram id="E6UDTMIK5SfPo9EAQP29" name="Page-1">
     <mxGraphModel dx="2750" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -68,20 +68,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-18" value="全量任务启动" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="2400" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="3090" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="2450" as="targetPoint" />
+            <mxPoint x="450" y="3140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="855" y="2520" />
-              <mxPoint x="480" y="2520" />
-              <mxPoint x="480" y="2450" />
+              <mxPoint x="855" y="3210" />
+              <mxPoint x="480" y="3210" />
+              <mxPoint x="480" y="3140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-20" value="全量同步失败" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="2400" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="3090" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-23" target="xRANGXOFlQ8uoqTKwq2T-25" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
@@ -100,19 +100,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-23" value="离线全量索引进行中" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="2640" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="3330" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.836;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-25" target="xRANGXOFlQ8uoqTKwq2T-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855" y="2520" />
-              <mxPoint x="480" y="2520" />
-              <mxPoint x="480" y="2452" />
+              <mxPoint x="855" y="3210" />
+              <mxPoint x="480" y="3210" />
+              <mxPoint x="480" y="3142" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-25" value="全量同步失败" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="2640" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="3330" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xRANGXOFlQ8uoqTKwq2T-27" target="pfTwy-6_xwasAA1-WFlj-1" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
@@ -131,21 +131,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xRANGXOFlQ8uoqTKwq2T-27" value="离线全量加载中" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="2910" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="3600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.836;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="2909" as="sourcePoint" />
-            <mxPoint x="446.96000000000004" y="2451" as="targetPoint" />
+            <mxPoint x="855" y="3599" as="sourcePoint" />
+            <mxPoint x="446.96000000000004" y="3141" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="855" y="2739" />
-              <mxPoint x="480" y="2739" />
-              <mxPoint x="480" y="2451" />
+              <mxPoint x="855" y="3429" />
+              <mxPoint x="480" y="3429" />
+              <mxPoint x="480" y="3141" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-1" value="全量同步失败" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="2910" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="3600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pfTwy-6_xwasAA1-WFlj-3" target="pfTwy-6_xwasAA1-WFlj-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -153,33 +153,33 @@
         <mxCell id="pfTwy-6_xwasAA1-WFlj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.155;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-3" target="xRANGXOFlQ8uoqTKwq2T-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="3185" />
-              <mxPoint x="150" y="2520" />
-              <mxPoint x="372" y="2520" />
+              <mxPoint x="150" y="3875" />
+              <mxPoint x="150" y="3210" />
+              <mxPoint x="372" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-3" value="全量同步成功" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="3160" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="3850" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-5" target="pfTwy-6_xwasAA1-WFlj-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="3310" as="targetPoint" />
+            <mxPoint x="510" y="4000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-5" target="pfTwy-6_xwasAA1-WFlj-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="3130" as="targetPoint" />
+            <mxPoint x="410" y="3820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-5" value="是否实时?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="3270" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="3960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="455" y="3285" width="30" height="20" as="geometry" />
+          <mxGeometry x="455" y="3975" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="660" y="3295" width="30" height="30" as="geometry" />
+          <mxGeometry x="660" y="3985" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pfTwy-6_xwasAA1-WFlj-19" target="pfTwy-6_xwasAA1-WFlj-22" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry" />
@@ -199,20 +199,20 @@
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="356" y="3445" as="sourcePoint" />
-            <mxPoint x="371" y="2450" as="targetPoint" />
+            <mxPoint x="356" y="4135" as="sourcePoint" />
+            <mxPoint x="371" y="3140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="201" y="3445" />
-              <mxPoint x="201" y="2460" />
-              <mxPoint x="371" y="2460" />
+              <mxPoint x="201" y="4135" />
+              <mxPoint x="201" y="3150" />
+              <mxPoint x="371" y="3150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-19" value="增量任务提交中" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="3420" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="4110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="3380" width="30" height="20" as="geometry" />
+          <mxGeometry x="420" y="4070" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pfTwy-6_xwasAA1-WFlj-22" target="pfTwy-6_xwasAA1-WFlj-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -226,46 +226,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-22" value="增量同步中" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="3680" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="4370" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-24" target="xRANGXOFlQ8uoqTKwq2T-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855" y="3220" />
-              <mxPoint x="530" y="3220" />
-              <mxPoint x="530" y="2450" />
+              <mxPoint x="855" y="3910" />
+              <mxPoint x="530" y="3910" />
+              <mxPoint x="530" y="3140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-24" value="增量同步失败" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="3420" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="4110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pfTwy-6_xwasAA1-WFlj-26" target="pfTwy-6_xwasAA1-WFlj-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-26" target="pfTwy-6_xwasAA1-WFlj-36" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="3540" as="targetPoint" />
+            <mxPoint x="410" y="4230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-26" target="xRANGXOFlQ8uoqTKwq2T-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="3945" />
-              <mxPoint x="100" y="2440" />
-              <mxPoint x="330" y="2440" />
-              <mxPoint x="330" y="2425" />
+              <mxPoint x="100" y="4635" />
+              <mxPoint x="100" y="3130" />
+              <mxPoint x="330" y="3130" />
+              <mxPoint x="330" y="3115" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-26" value="增量同步成功" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="3920" width="110" height="50" as="geometry" />
+          <mxGeometry x="355" y="4610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-28" target="pfTwy-6_xwasAA1-WFlj-19" edge="1" treatAsSingle="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855" y="3530" />
-              <mxPoint x="449" y="3530" />
+              <mxPoint x="855" y="4220" />
+              <mxPoint x="449" y="4220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -275,34 +275,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-28" value="增量同步失败" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="3680" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="4370" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.364;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-30" target="xRANGXOFlQ8uoqTKwq2T-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="25" y="2300" />
-              <mxPoint x="395" y="2300" />
+              <mxPoint x="25" y="2990" />
+              <mxPoint x="395" y="2990" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-30" value="备份offset失败" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="2400" width="110" height="50" as="geometry" />
+          <mxGeometry x="-30" y="3090" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pfTwy-6_xwasAA1-WFlj-32" target="pfTwy-6_xwasAA1-WFlj-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855" y="3790" />
-              <mxPoint x="490" y="3790" />
-              <mxPoint x="490" y="3540" />
-              <mxPoint x="438" y="3540" />
+              <mxPoint x="855" y="4480" />
+              <mxPoint x="490" y="4480" />
+              <mxPoint x="490" y="4230" />
+              <mxPoint x="438" y="4230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-32" value="增量同步暂停" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="3920" width="110" height="50" as="geometry" />
+          <mxGeometry x="800" y="4610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-36" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="395" y="4100" width="30" height="30" as="geometry" />
+          <mxGeometry x="395" y="4790" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-40" value="&lt;font color=&quot;#ff0000&quot;&gt;用户配置schema信息,全量信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="-563" width="180" height="20" as="geometry" />
@@ -314,43 +314,43 @@
           <mxGeometry x="325.5" y="1120" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-46" value="提交全量任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="2530" width="90" height="20" as="geometry" />
+          <mxGeometry x="375" y="3220" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-54" value="offset追上,收尾工作顺利进行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="3800" width="170" height="20" as="geometry" />
+          <mxGeometry x="315" y="4490" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-55" value="在增量同步成功之后,&lt;font color=&quot;#ff0000&quot;&gt;用户点击暂停增量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="3930" width="220" height="20" as="geometry" />
+          <mxGeometry x="510" y="4620" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-56" value="该应用建立索引阶段成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="4020" width="150" height="20" as="geometry" />
+          <mxGeometry x="325" y="4710" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-62" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击启动增量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="655" y="3790" width="110" height="20" as="geometry" />
+          <mxGeometry x="655" y="4480" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-66" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="2570" width="110" height="20" as="geometry" />
+          <mxGeometry x="860" y="3260" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-67" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="2470" width="110" height="20" as="geometry" />
+          <mxGeometry x="815" y="3160" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-68" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="805" y="2820" width="110" height="20" as="geometry" />
+          <mxGeometry x="805" y="3510" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-70" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="3160" width="110" height="20" as="geometry" />
+          <mxGeometry x="195" y="3850" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-72" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="3320" width="110" height="20" as="geometry" />
+          <mxGeometry x="815" y="4010" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-74" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="2270" width="110" height="20" as="geometry" />
+          <mxGeometry x="60" y="2960" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-76" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="145" y="3920" width="110" height="20" as="geometry" />
+          <mxGeometry x="145" y="4610" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-78" value="&lt;font color=&quot;#ff0000&quot;&gt;用户点击重建索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="3420" width="110" height="20" as="geometry" />
+          <mxGeometry x="220" y="4110" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pfTwy-6_xwasAA1-WFlj-80" value="&lt;font color=&quot;#ff0000&quot;&gt;E_collection_metadata_recreate&lt;br&gt;&lt;/font&gt;执行操作:上传solr配置文件,创建collection失败&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="785.5" y="690" width="260" height="30" as="geometry" />
@@ -609,6 +609,9 @@
         <mxCell id="ouW_fzpy-MnYri31NkzG-100" value="&lt;span&gt;全量任务提交失败(S_full_job_submit_failed)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210.5" y="2095" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouW_fzpy-MnYri31NkzG-102" target="ouW_fzpy-MnYri31NkzG-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ouW_fzpy-MnYri31NkzG-102" value="&lt;span&gt;全量任务提交成功(S_full_job_submit_succeed)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-109.5" y="2095" width="120" height="60" as="geometry" />
         </mxCell>
@@ -626,6 +629,33 @@
         </mxCell>
         <mxCell id="ouW_fzpy-MnYri31NkzG-109" value="&lt;span style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;E_resubmit_full_job&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="2015" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouW_fzpy-MnYri31NkzG-110" target="ouW_fzpy-MnYri31NkzG-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-110" value="&lt;span&gt;离线全量索引进行中&lt;/span&gt;&lt;span&gt;(S_offline_full_index_running)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-109.5" y="2235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-112" value="&lt;font color=&quot;#ff0000&quot;&gt;E_run_mr_task&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="2180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouW_fzpy-MnYri31NkzG-113" target="ouW_fzpy-MnYri31NkzG-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ouW_fzpy-MnYri31NkzG-113" target="ouW_fzpy-MnYri31NkzG-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-113" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-89.5" y="2365" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-115" value="离线全量索引进行中(S_offline_full_index_failed)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50.5" y="2375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-117" value="离线全量索引进行中(S_offline_full_index_succeed)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-269.5" y="2375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ouW_fzpy-MnYri31NkzG-119" value="f" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry y="2370" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
