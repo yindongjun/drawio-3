@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T09:01:08.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FHRyiTrTqaXjyd6zcPfz" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T09:02:36.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nzsFd7lc7d7vlgoCrBKp" version="13.9.9" type="github">
   <diagram id="LUMRh5OlZpuZEt3NDZdp" name="Page-1">
     <mxGraphModel dx="1373" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="Pzn9V1K6N3wmKN9Gp2ga-9" value="响应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="690" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzn9V1K6N3wmKN9Gp2ga-10" value="两种情况:&lt;br&gt;1.第一次创建dts]服务&lt;br&gt;2.dts镜像或者yaml配置升级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="400" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
