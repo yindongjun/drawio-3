@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T07:52:11.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rTnEJzDAuqvTzFRxG2eC" version="13.9.9" type="github"><diagram id="mWvWXQ8AUDrfJUg8DzTt" name="Page-1">zZTPT8MgFID/mh5NWlhkHrVOzRLjoQcTLwbLs5DQ0jG6/vjrpQLtmmWJHow7Fb73eMAHJcJp2T1qWvNnxUBGKGZdhO8jhBJMsP2MpHeEEORAoQXzSTPIxAAexp42gsF+kWiUkkbUS5irqoLcLBjVWrXLtE8ll7PWtIATkOVUntJXwQx3dI3IzJ9AFDzMnFzfuEhJQ7LfyZ5TptojhDcRTrVSxrXKLgU5ygte3LiHM9FpYRoq85MBh93HbssGWpPb96ESb9uXDq58lQOVjd+wX6zpgwGtmorBWCSO8F3LhYGspvkYbe2ZW8ZNKW0vsU1fDrSB7uw6k2n39tqAKsHo3qb4ATgI8zcmdNtZ/yrcDn6kHgdI/ZEXU+nZim14Mb+QhC5f0ir+d0v48i2R9R9ast35Z/6OHT2JePMF</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T08:01:02.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="j3M_GL1rExrlspFBX2Dn" version="13.9.9" type="github">
+  <diagram id="mWvWXQ8AUDrfJUg8DzTt" name="Page-1">
+    <mxGraphModel dx="2200" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vqbqJdzap7A_zniZJOxe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="20" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vqbqJdzap7A_zniZJOxe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vqbqJdzap7A_zniZJOxe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="780" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="400" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="400" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-3" value="bos-portal" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-4" value="bos-coordinator" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-5" value="bos-engine" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-6" value="bos-gateway" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfd37CRUFrUo1diVzheX-7" value="bos-indexl" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
