@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T02:03:15.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C4cv1Md4_JOv1jWaxZaQ" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T02:03:46.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="67wkRRX1mvCQCag6Yn11" version="14.1.1" type="github">
   <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
     <mxGraphModel dx="1639" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="cmb7abvfNNHg6s3RTJ-E-5" value="测试上线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cmb7abvfNNHg6s3RTJ-E-6" value="梳理功能影响范围和测试点,系统测试(对以前join类型和平台流程等均需要全面测试)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-6" value="梳理重构影响范围和测试点,系统测试(对平台流程等均需要全面测试)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
