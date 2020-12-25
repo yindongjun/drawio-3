@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T01:47:59.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rELpUpCWPQ2eX2B-E0DB" version="14.1.1" type="github"><diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-25T01:58:29.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Jzvd_AlvBQ6FNzo6w5qW" version="14.1.1" type="github">
+  <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
+    <mxGraphModel dx="1639" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="346" />
+            </Array>
+            <mxPoint x="70" y="348" as="sourcePoint" />
+            <mxPoint x="250" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="y3p8oQp4nrf6NhNMhpHg-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="156" as="targetPoint" />
+            <mxPoint x="80" y="346" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="346" />
+              <mxPoint x="170" y="156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="346" as="sourcePoint" />
+            <mxPoint x="250" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="346" />
+              <mxPoint x="170" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="346" as="sourcePoint" />
+            <mxPoint x="250" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="346" />
+              <mxPoint x="170" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="346" as="sourcePoint" />
+            <mxPoint x="250" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="346" />
+              <mxPoint x="170" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="346" as="sourcePoint" />
+            <mxPoint x="255" y="626" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="346" />
+              <mxPoint x="170" y="626" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-9" value="bos重构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="192" width="40" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-10" target="y3p8oQp4nrf6NhNMhpHg-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-10" value="&lt;span&gt;场景/方案调研&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-11" target="y3p8oQp4nrf6NhNMhpHg-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-11" value="方案设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-12" target="y3p8oQp4nrf6NhNMhpHg-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-12" value="方案实施" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-18" value="结合平台支持的场景和调研现状,思考重构方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-20" target="y3p8oQp4nrf6NhNMhpHg-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-20" value="方案讨论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-23" value="考虑现有功能的兼容性和扩展性,结合,设计方案(沿用以前流程,设计辅助表来实现)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="224" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-25" value="和相关人员对方案整体、细节、关键点、风险点等进行讨论,得到最优方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-26" value="对方案进行合理规划之后,开始实施" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvB9n8HEAgJqky4Rzzta-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JvB9n8HEAgJqky4Rzzta-1" target="JvB9n8HEAgJqky4Rzzta-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvB9n8HEAgJqky4Rzzta-1" value="详细设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvB9n8HEAgJqky4Rzzta-9" value="在方案讨论确定之后,在对方案进行详细(包括多对一交互和全量和增量实现细节)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmb7abvfNNHg6s3RTJ-E-5" target="cmb7abvfNNHg6s3RTJ-E-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-5" value="测试上线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cmb7abvfNNHg6s3RTJ-E-6" value="梳理功能影响范围和测试点,系统测试(对以前join类型和平台流程等均需要全面测试)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
