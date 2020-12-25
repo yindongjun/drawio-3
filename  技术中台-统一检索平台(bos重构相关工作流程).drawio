@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T01:58:29.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Jzvd_AlvBQ6FNzo6w5qW" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T02:03:15.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C4cv1Md4_JOv1jWaxZaQ" version="14.1.1" type="github">
   <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
     <mxGraphModel dx="1639" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         <mxCell id="y3p8oQp4nrf6NhNMhpHg-20" value="方案讨论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="314" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3p8oQp4nrf6NhNMhpHg-23" value="考虑现有功能的兼容性和扩展性,结合,设计方案(沿用以前流程,设计辅助表来实现)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-23" value="考虑现有功能的兼容性和扩展性,调研行业解决方案,得出初步设计(考虑用状态机实现索引构建流程)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="224" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y3p8oQp4nrf6NhNMhpHg-25" value="和相关人员对方案整体、细节、关键点、风险点等进行讨论,得到最优方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -108,7 +108,7 @@
         <mxCell id="JvB9n8HEAgJqky4Rzzta-1" value="详细设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="404" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JvB9n8HEAgJqky4Rzzta-9" value="在方案讨论确定之后,在对方案进行详细(包括多对一交互和全量和增量实现细节)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JvB9n8HEAgJqky4Rzzta-9" value="在方案讨论确定之后,在对方案进行详细设计(包括模块重新划分,状态机实现和DDD编程模式等)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="404" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cmb7abvfNNHg6s3RTJ-E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmb7abvfNNHg6s3RTJ-E-5" target="cmb7abvfNNHg6s3RTJ-E-6" edge="1">
