@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T06:03:40.479Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="rhpeyF44-VMpEBTEaBSx" version="14.5.1" type="github"><diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">7VpNk+I2EP01OiZly1/S0Qaze8hubWoOSY5e0GCnAFHGDEN+fbpbMraxZyC7O5jZymVGarWE3P36dbeBeZP184cy2+af9EKtGHcWz8ybMs5dHnnwDyVHIwkkN4JlWSysUiN4KP5RVuhY6b5YqF1HsdJ6VRXbrnCuNxs1rzqyrCz1oav2qFfdT91mS9UTPMyzVV/6R7GociMVPGrkH1WxzOtPdkNpVtZZrWyfZJdnC31oibyUeZNS68qM1s8TtULj1XYx+2YvrJ4uVqpNdc2Go7cV+vetvykfw8/550/59uPyF9e6Z1cd6ydWCzCAneqyyvVSb7JV2kiTUu83C4XHOjBrdH7TegtCF4R/q6o6Wm9m+0qDKK/WK7sKNy6Pf9r9NPkLJ78G9XT63F6cHu2s/8jWCju9L+fqlee0Tqmycqmq1+xhnYVGaH2CtegHpdcKLgQKpVplVfHURUlmwbY86dmtcVlmx5bCVhebatc6+QsKQKGOm8jew0aNF0Rd317QdwVv68PA3KCetR6lERFe/gt2/P+x07GH+1Ngx3NugZ3grrAjvAvoodkXVRbw4Kq8HaT4m0CqhwHudzEQBLx7hLmp3dWA49bYrO/1ptg8efE+sDk6r/GfIyf6/AbYsTZ9ylZ7awaWRixJmJyx1GeJYMJhachijwaw5LMYdAKWSJZ4OBAzljg9BHbxdciLSj1sM/LvASrvLpZexMSTKiv1/KoT7eoZIbh12X5oiuBaJW/Vv57nvOz2lum/IWNEfdOOEKbfHm51aXmZ9MO7iDfffbWmvKjPb1FHjAOC23P19eARPxo83xe1Ti9qs1W2WBQblgqWzJhwkQVj5MiveneHRMiDszAI+kzo8gEqDN+MCcOBJBNiGkG7RUw6TIQokT4aEy0Zs1iQbacscXEgIf9MURmCGnT4hPQDTEeYpqaoAA4S4JoYlxI4JCE1k8TSbu6a4F70Y8LiGW108dPRxXCZ/juGm2ezcyeKsZ3I/feezuq3cRfLR+++GMntGX6YeDCSEgQ7SoJ6KaZKTiCoEwogGTPhWzKLpxQfCZZ3Y0P+nLd4NDrkB4rj9wV5fi3kf3gF932Q58OQl8jvmAaA+lNCsWSxSzmDsB+nd4fioG4Dxsu+YiD7RphxkRhCTKiCDAiEAUzQdH9k5CRsWRvSMChP6vxqKiFRJ9oIfQEuADX4KykNA/2Y/lFOKNHCICR/hagsBG0kfXMsSKQzUAqM7dbzfDzQXd6Ymwa8+q64iV/bIPDgrriJ9xsEwiugP6CkLCgFUxRhcUoxEFPwAHMBf+FSjA1EE05maVbDncIDKlZzIKTyuP/yeWxe88aPAG/AEQEW+DK1NT7YGSU+mZ3qnGSqHx93gLeB0ujkDsol0q29EF1XWZ26kBOTnngtQNYT/W+fxmaxOyixgkEn9iMFLGnygZTUGkps4KSJHQ9jx7Z60NgZN8Eg3M1ztc7QR3BIbLwW2qYTTk5OrzhjOjCi7CUJQnVmOg/MADdipxjhX7xJiOnTLDWXrNMk4EcafphROLdSKaIxthfAOrx3AUyoUzz83mBzB7F/3RuFCO1vOiNwH5QyFiSGkGkgh/CGakDjKYVzgEvoKUH+Te0AyheDEGyjEqpNHSIEYh4seqgvk/3vZsZ231uWpDBtfiBi3pk2P7Px0n8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-12T07:30:31.904Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="s2zqHd33PuyUyxiZGMD9" version="14.5.1" type="github">
+  <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
+    <mxGraphModel dx="1273" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-9" target="y3p8oQp4nrf6NhNMhpHg-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="357" />
+              <mxPoint x="170" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-9" target="y3p8oQp4nrf6NhNMhpHg-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="357" />
+              <mxPoint x="170" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-9" value="统一检索平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="192" width="40" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-10" target="y3p8oQp4nrf6NhNMhpHg-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="260" />
+              <mxPoint x="410" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y3p8oQp4nrf6NhNMhpHg-10" target="y3p8oQp4nrf6NhNMhpHg-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erH4g5eXjY-_KYNwMGOr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3p8oQp4nrf6NhNMhpHg-10" target="erH4g5eXjY-_KYNwMGOr-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-10" value="bos重构升级" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-16" value="梳理索引端逻辑和影响点,快速接入开发,实现索引计算支持" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-18" value="熟悉系统架构和业务需求,通过引入DDD编程思想实现bos-portal快速开发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="erH4g5eXjY-_KYNwMGOr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3p8oQp4nrf6NhNMhpHg-20" target="y3p8oQp4nrf6NhNMhpHg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-20" value="日常维护升级和协助接入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="462" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3p8oQp4nrf6NhNMhpHg-25" value="旧版bos增量日志积压相关问题修改并上线,aladdin整合bos全量切至bos,j集群报警修复等" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="452" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="erH4g5eXjY-_KYNwMGOr-3" value="从0到1快速上手spring-statemachine状态机,并熟悉和开发索引构建全流程,顺利推进项目实施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
