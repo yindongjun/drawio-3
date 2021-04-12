@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T12:17:19.062Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="utdTITxQQXVV4u-9nvYp" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T12:19:01.465Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XXexbSD0WBb1I90k0iID" version="14.5.1" type="github">
   <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
     <mxGraphModel dx="3514" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="0PsAdMPcMAplz9Jzp-k7-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0PsAdMPcMAplz9Jzp-k7-3" target="0PsAdMPcMAplz9Jzp-k7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0PsAdMPcMAplz9Jzp-k7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-3" value="bos-corrdinator" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-2110" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0PsAdMPcMAplz9Jzp-k7-4" value="应用服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="0PsAdMPcMAplz9Jzp-k7-7" value="" style="rounded=10;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-2220" y="-160" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0PsAdMPcMAplz9Jzp-k7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillColor=#C9C9C9;" parent="1" vertex="1">
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-8" value="服务治理中间件" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillColor=#C9C9C9;align=left;" parent="1" vertex="1">
           <mxGeometry x="-2470" y="-400" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0PsAdMPcMAplz9Jzp-k7-10" value="接入层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="wgtprpRF-wXjH0HqbVlM-4" value="资源库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-2445" y="-110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wgtprpRF-wXjH0HqbVlM-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0PsAdMPcMAplz9Jzp-k7-4" target="0PsAdMPcMAplz9Jzp-k7-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
