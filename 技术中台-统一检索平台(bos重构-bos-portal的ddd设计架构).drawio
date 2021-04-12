@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T12:11:58.801Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Xk8eJwsZPJ48otizAi2e" version="14.5.1" type="github"><diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">3Vlbb5swGP01fkyFAXN5BEI3TatUKQ/bHr3gBlYHI8dpLr9+NhgSAk2plIS2SqXYxzbY5xz7+5wCK1puv3FcpA8sIRSYRrIF1hSYpoWgLb8UsqsQ6DqwQhY8SzR2AGbZnmjQ0Og6S8iq1VEwRkVWtME5y3MyFy0Mc8427W5PjLbfWuAF6QCzOaZd9FeWiLRCPdM94N9JtkjrN0PHr1qWuO6sV7JKccI2R5AVAyvijImqtNxGhCr2al6qcfevtDYT4yQXQwYYj6sgeXicPwQF3fs/9sXk2Z3oyb5gutYLBrEDfARCQxW8KQhiEMtqAHxLIaEJwhDELvAN4DkgtkHogWAKYh/4LgjtEglB6OhFi13NJGfrPCFqMgawwk2aCTIr8Fy1bqR5JJaKJZU1KIsNWapvgldpOVC1PGWURowyXj7Vinz1kTim2SKXGCVPko5Qr4twQbavEgYbGaSBCVsSwXeyix4wMW1Xa7drEA1sDl6wfY2lRz5wNIa1/RbN0w8KyYIW6R2CQfgGsYyLlC1YjulPxgpN2j8ixE5vLrwWrE225IPvfqvxdyaq63/088rKdNuq7XStmgpJOlvohGI5Xbbmc3JuXXpvY74g4kw/u18yTigW2Ut7Hpcnv7Nb/rLVpJCUY3pGFjjA74KzZ3Lka8OIIsM43QlVt/ogMi/lc/m2ts8d2PU5NG/qc/OqPnfk2XVk9IlxZ3hvmL2sPRKeyQUSfvkdYH2GHWB148Un9j2EH873dk9ArsKvXUZdGwReGaIjFZxlkxeA4FxM+PAimKeHj+2NLYL7LpcPSWfGZdg8YRg6PQz3pTHQuBbF3nsovkrCeBFqG6825jVGzxCNniNEpvIxCFB5YCBdCCHwuqxLNkSb2jqznktWVOALFWeZvCIFumGZJYkaHnKyyvb4b/kopUPBslyU60MhQFP1LBmUV1V8hhfTwEZtDZDf1QD1SGBeTQK7Q6tKEWa6mrO8ZOuC+YxnNUCdzzj2J0lo0JgJDbRuLRV0vVOpxk49h16+xlUK3Vop2z4WSuoE0chCoYFCuWMKhXrijw8Cs/y9CAH/Xv19rRTWP8kCLLMbgZpL9m2yAKdHhQEXia+UFzgDLhbeTfOCnovFkK3xlUWxeq7cFxJFVg8/r5dtR/+lsOL/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-12T12:12:40.105Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="rWY_kg2mwxQG9FGVXFGx" version="14.5.1" type="github">
+  <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
+    <mxGraphModel dx="3514" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-9" value="数据库治理中间件" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillColor=#C9C9C9;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-2470" y="-240" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0PsAdMPcMAplz9Jzp-k7-1" target="0PsAdMPcMAplz9Jzp-k7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-1" value="bos-portal" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2300" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0PsAdMPcMAplz9Jzp-k7-3" target="0PsAdMPcMAplz9Jzp-k7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2110" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-4" value="应用服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2200" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-7" value="" style="rounded=10;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2220" y="-160" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillColor=#C9C9C9;" parent="1" vertex="1">
+          <mxGeometry x="-2470" y="-400" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-10" value="接入层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-2445" y="-590" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.798;entryY=-0.07;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0PsAdMPcMAplz9Jzp-k7-3" target="0PsAdMPcMAplz9Jzp-k7-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2049" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.178;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0PsAdMPcMAplz9Jzp-k7-1" target="0PsAdMPcMAplz9Jzp-k7-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0PsAdMPcMAplz9Jzp-k7-5" target="0PsAdMPcMAplz9Jzp-k7-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-5" value="领域服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00CC00;shadow=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2290" y="-320" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-16" value="应用服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-2460" y="-480" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PsAdMPcMAplz9Jzp-k7-17" value="领域服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-2460" y="-310" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
