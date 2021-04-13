@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T02:02:03.803Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="TuPzyJCnrR_cNDXL2bUU" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T02:22:10.649Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="yenK_X6GzmHII5J-EuiK" version="14.5.1" type="github">
   <diagram id="Yjjd4iymPNlZoRnGIAg2" name="Page-1">
     <mxGraphModel dx="1033" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,19 +52,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Oy1wkQBKMkyRiAAsawv-9" value="离线索引加载" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PrsttA66mwOKF6uBJdL--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Oy1wkQBKMkyRiAAsawv-11" target="PrsttA66mwOKF6uBJdL--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Oy1wkQBKMkyRiAAsawv-11" value="增量索引计算" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PrsttA66mwOKF6uBJdL--1" value="增量索引同步成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PrsttA66mwOKF6uBJdL--5" value="&lt;font color=&quot;#ff3333&quot;&gt;激活&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--22" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="199.02" y="221.25" width="59.81" height="48.71" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--29" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="311.29" width="59.81" height="48.71" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--30" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="311.29" width="59.81" height="48.71" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--31" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530.19" y="431.29" width="59.81" height="48.71" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--32" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="310.19" y="551.29" width="59.81" height="48.71" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--33" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530.19" y="551.29" width="59.81" height="48.71" as="geometry" />
+        </mxCell>
+        <mxCell id="PrsttA66mwOKF6uBJdL--34" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rotation=-15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="100.09" y="551.29" width="59.81" height="48.71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
