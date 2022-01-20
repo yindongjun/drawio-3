@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T07:38:42.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JAqgSq--BBw4p4REATxI" version="16.2.7" type="github"><diagram id="1vFym9fmWpFajgOPOLZF" name="Page-1">3Vhbc5s6EP41emzHBgPiETBO22l7zoznTB87MohLAogRcmzn158FxB3cpE2apk8Wq9Vtv+/blYVUJz3fcJJHX5hPE6Ss/DNSt0hRlJWuw09pudSW9VpXa0vIY1/aOsM+fqDSuJLWY+zTYuAoGEtEnA+NHssy6omBjXDOTkO3gCXDVXMS0olh75Fkav0W+yKqrVgxOvsHGoeRaM9n1j0paZzlSYqI+OzUM6kuUh3OmKhb6dmhSRm9Ji71uN1Cb7sxTjPxmAHpw1775z643aXnA7XIp6/fbvJ3Wj3LPUmO8sBys+LSRID6EBD5ybiIWMgykrid1ebsmPm0XGYFX53PZ8ZyMK7BeEuFuEh0yVEwMEUiTWTv9CjydAU7co9e2b/criA8pOKK36b2K8/SW0AG6oaylAp+AQdOEyLi+yH4RHIobP3kUItzcuk55CzORNGb+d/SAA6NHjaSC1INDct3C/4qvuoPjXoHzVfvKJ2posETKKFMKFEITkkaZyFS9ASibB84tMKyhdwdsh2EMYxA7gbZGNlgxMhaIws3veaEVB1lSvxPUSzoPicV1CfIJEN6BHGSOCxhvBqr+oTiwAM77Ivd0V6P7mF6CK4R6p5yQc9XKdD0jmJvys9TlwXWjbSjXgbQV8uk6QH3dFz0t6VM9UUU92OJ4FH869QgR3UQPFW6mvoGpKv+nHRBrraLsPZX6HZj/GG6xW+8xG4eWWKN5xb8L0V9MxN1naQlQ7NDkVf8n5Qr4IXhVJVsoogxZD+g/lAnryIEVRllIO03KiG6++jc3Z7/+2Lke8UrPNcK2bvmTv9HSGHE05/ThjHVxuzJzdeUgjEnhaoYFDnJ2nIwlof0gSWvuj1NRbPrLhWmO3qxL8jVEORw7PaK0mTE0l7fvGjVVy9f5pQ9DT7rDhJXR+YWWRXU2ECWJXmBtw1+jmB57CHXQKaF8KYaoSF7VTbAy3IruuyQ2TAJO8csZtkERIikGOJGkjjMoO1B3CmAYpfxjuE/vCU70tj369xBi/iBHKqpyuwhb30wr2YjbVvOBemiqDPHegJ2xjI6YoY0PQP0iqENoG//gPSgb59F+tArLwX9XL5usG9bZq3Sa9dLE8FRAPUaYGxAmAQgC2tPIJeSX7p+/rXY4yH2qqpNZW/MYK++GPbrCfYFS3gPVa3UrL1tk7vHkoR6JbDL+NUhbR7SlCGURUTy0i89h+Vj4vsgYScvAq6892MOM3/3iSAL/zpGyToIAsWbTda+ftA1/ZmS9eg/oT6XrFe/84Y1k6znSm4DotpL4BrCkJHrBkCrVWgv3gEWCvDsKtWU2zLby5qwSouwKgQ2sqtCAMW9LB3jLVQc2yDLmJJtchlY2OLjtv2s94YFFs1w7dG3gPbx4QVuAfDZvUHXDxHdU77q/g8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-20T07:44:08.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="c1ve2GFog72mHYmZ7LlB" version="16.2.7" type="github">
+  <diagram id="1vFym9fmWpFajgOPOLZF" name="Page-1">
+    <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mzS5OvfjFmxbeAaJNWGp-2" target="mzS5OvfjFmxbeAaJNWGp-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="210" />
+              <mxPoint x="380" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-2" value="streaming&lt;br&gt;（ 主表）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mzS5OvfjFmxbeAaJNWGp-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="210" />
+              <mxPoint x="380" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-3" value="streaming&lt;br&gt;（辅表）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mzS5OvfjFmxbeAaJNWGp-4" target="mzS5OvfjFmxbeAaJNWGp-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-4" value="&amp;nbsp;主表 | 辅表" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hkICkjxUM7pS2cscEAgo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mzS5OvfjFmxbeAaJNWGp-7" target="hkICkjxUM7pS2cscEAgo-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-7" value="&lt;span&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;主表 | 辅表&lt;span&gt;&lt;br&gt;（keyBy后）&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-9" value="（1）来自不同topic的数据进行union" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="180" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-10" value="（2）keyBy&lt;br&gt;（通过partionid进行keyBy）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="285" y="335" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mzS5OvfjFmxbeAaJNWGp-11" value="solr（宽表collection）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="330" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQR5wruwBY5iecn4xzK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hkICkjxUM7pS2cscEAgo-9" target="mzS5OvfjFmxbeAaJNWGp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hkICkjxUM7pS2cscEAgo-9" value="&lt;span&gt;主表根据msg来合成宽表数据，辅表主要是原子更新&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQR5wruwBY5iecn4xzK-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;（3）写入solr&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;（最后合成的数据直接写入大宽表）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
