@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T06:44:07.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="c3-pbuWSgmWx-iwGUq_6" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T06:46:02.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hiQS_FjWfcvVZ72uk84G" version="16.2.7" type="github">
   <diagram id="1vFym9fmWpFajgOPOLZF" name="Page-1">
     <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,25 +31,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-4" value="&amp;nbsp;主表" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mzS5OvfjFmxbeAaJNWGp-7" target="mzS5OvfjFmxbeAaJNWGp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-7" value="&lt;span&gt;&amp;nbsp;主表&lt;br&gt;（keyby后）&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-9" value="（1）union" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-10" value="（2）keyby（partionid）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="370" width="150" height="20" as="geometry" />
+          <mxGeometry x="285" y="340" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-11" value="solr（宽表collection）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="550" width="100" height="60" as="geometry" />
+          <mxGeometry x="330" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mzS5OvfjFmxbeAaJNWGp-13" value="（3）写入solr&lt;br&gt;（单一msg直接写入大宽表）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="495" width="170" height="30" as="geometry" />
+          <mxGeometry x="295" y="465" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
