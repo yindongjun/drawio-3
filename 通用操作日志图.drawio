@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:05:55.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="43oVcY4-hIAaveYDN6Gx" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:41:37.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="c5bcaWY6ZpnLJuXcJOcd" version="17.4.6" type="github">
   <diagram id="M2J54aH_kBlXoppGelAj" name="Page-1">
-    <mxGraphModel dx="1234" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,48 @@
         </mxCell>
         <mxCell id="rtflXN0gHjhB6CokZb4b-4" value="操作日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="583.75" y="980" width="76.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtflXN0gHjhB6CokZb4b-5" target="rtflXN0gHjhB6CokZb4b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-5" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1010" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtflXN0gHjhB6CokZb4b-6" target="rtflXN0gHjhB6CokZb4b-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-6" value="方法执行&lt;br&gt;（上下文存值）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="1060" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rtflXN0gHjhB6CokZb4b-7" target="rtflXN0gHjhB6CokZb4b-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-7" value="解析注解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576.88" y="1110" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rtflXN0gHjhB6CokZb4b-8" target="rtflXN0gHjhB6CokZb4b-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-8" value="SpEL解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576.88" y="1210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rtflXN0gHjhB6CokZb4b-9" target="rtflXN0gHjhB6CokZb4b-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-9" value="自定函数计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576.88" y="1310" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtflXN0gHjhB6CokZb4b-16" target="rtflXN0gHjhB6CokZb4b-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-16" value="方法执行完毕&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="1360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-17" value="上下文释放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576.88" y="1410" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtflXN0gHjhB6CokZb4b-22" value="上下文释放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576.88" y="1510" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
